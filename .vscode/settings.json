@@ -1,0 +1,7 @@
+{
+  "[dart]": {
+    "suggest.paths": [
+      "**/android/app/**" // Exclude Java paths if needed
+    ]
+  }
+}
